@@ -1,0 +1,2 @@
+int mymod(int,int);
+
